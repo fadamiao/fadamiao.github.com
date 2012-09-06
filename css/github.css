@@ -1,0 +1,18 @@
+#repositories h2, #gists h2 {
+	border-bottom: solid 1px #000000;
+}
+
+#repositories h3, #gists h3{
+	margin: 0;
+	padding: 0;
+}
+
+#repositories p {
+	margin: 0;
+	padding-top: 0;
+	padding-bottom: 10px;
+}
+
+#gists {
+	padding-bottom: 15px;
+}
